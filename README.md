@@ -1,9 +1,23 @@
+<div id="header" align="center">
+  <img src='https://github.com/Adrin63/Adrin63/blob/main/whooper.gif' height="300"/>
+  <div id="badges">
+    <a href="https://github.com/Adrin63">
+      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://www.linkein.com/in/adrianrl/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <!--a href="https://www.youtube.com/@adrin63_/videos">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a-->
+  </div>
+</div>
 <h1 align="center">Hey, I'm Adrian! Let's talk! ☕</h1>
 
-
 <!--About Myself-->
-#### Who is Adrin?
-- 💻
+#### 🎯 Who I am?
+
+* Test1
+* Test2 
 <!--Programming Languages-->
 
 <!--Language Rating-->
@@ -15,4 +29,6 @@
 </div>
 
 <!--Socials-->
-<img src='https://github.com/Adrin63/Adrin63/Socials.gif' align='center'>
+<div align ="center">
+  <img src='https://github.com/Adrin63/Adrin63/Socials.gif' height="100" width="100"/>
+</div>
