@@ -18,17 +18,35 @@
   <img src='https://github.com/Adrin63/Adrin63/blob/main/Myself.gif' height="300" align="right"/>
   <p>📬 Who I am?
   
-  * Test1
+  * Hola estoy testeando cuan largas deberian ser las frases blablabla mirame soy un ejemplo jijijjiiji
   * Test2
+  * d
+  * s
+  * s
+  * s
+  * s
+  * s
+    s
+    s
+    s
   </p>
 </div>
 <!--Programming Languages-->
 <div>
   <img src='https://github.com/Adrin63/Adrin63/blob/main/Languages.png' height="300" align="left"/>
   <p>🎯 Languages & Skills
-
-  * Test1
+    
+  * Hola estoy testeando cuan largas deberian ser las frases blablabla mirame soy un ejemplo jijijjiiji
   * Test2
+  * d
+  * s
+  * s
+  * s
+  * s
+  * s
+    s
+    s
+    s
   </p>
 </div>
 
