@@ -14,11 +14,23 @@
 <h1 align="center">Hey, I'm Adrian! Let's talk! ☕</h1>
 
 <!--About Myself-->
-#### 🎯 Who I am?
-
-* Test1
-* Test2 
+<div>
+  <img src='https://github.com/Adrin63/Adrin63/blob/main/Myself.gif' height="300" align="right"/>
+  <p>📬 Who I am?
+  
+  * Test1
+  * Test2
+  </p>
+</div>
 <!--Programming Languages-->
+<div>
+  <img src='https://github.com/Adrin63/Adrin63/blob/main/Languages.png' height="300" align="left"/>
+  <p>🎯 Languages & Skills
+
+  * Test1
+  * Test2
+  </p>
+</div>
 
 <!--Language Rating-->
 <div align="center">
@@ -29,6 +41,16 @@
 </div>
 
 <!--Socials-->
+
+<div>
+  <img src='https://github.com/Adrin63/Adrin63/blob/main/Socials.gif' height="500" align="center"/>
+
+  <p>📌 Contact me
+  * Test1
+  * Test2
+  </p>
+</div>
+
 <div align ="center">
   <img src='https://github.com/Adrin63/Adrin63/Socials.gif' height="100" width="100"/>
 </div>
