@@ -26,9 +26,6 @@
   * s
   * s
   * s
-    s
-    s
-    s
   </p>
 </div>
 <!--Programming Languages-->
@@ -44,9 +41,8 @@
   * s
   * s
   * s
-    s
-    s
-    s
+  * s
+  * s
   </p>
 </div>
 
@@ -61,7 +57,7 @@
 <!--Socials-->
 
 <div>
-  <img src='https://github.com/Adrin63/Adrin63/blob/main/Socials.gif' height="500" align="center"/>
+  <img src='https://github.com/Adrin63/Adrin63/blob/main/Socials.gif' height="300" align="center"/>
 
   <p>📌 Contact me
   * Test1
