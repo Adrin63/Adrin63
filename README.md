@@ -2,7 +2,8 @@
   <img src='https://github.com/Adrin63/Adrin63/blob/main/whooper.gif' height="300"/>
   <div id="badges">
     <a href="https://github.com/Adrin63">
-      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    </a>
     <a href="https://www.linkein.com/in/adrianrl/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -17,16 +18,9 @@
 <div>
   <img src='https://github.com/Adrin63/Adrin63/blob/main/Myself.gif' height="300" align="right"/>
   <h3>📬 Who I am?</h3>
-  <p>
-  * Hola estoy testeando cuan largas deberian ser las frases blablabla mirame soy un ejemplo jijijjiiji
-  * Test2
-  * d
-  * s
-  * s
-  * s
-  * s
-  * s
-  </p>
+<a>-🌱 I'm a fullstack developer who edits on his free time</a><br>
+<a>-🌼 Always in constant personal growth, I keep re-building myself everyday, looking for be the best version of me ✌🏻</a><br>
+<a>-📹 As an editor, I work with Photoshop, Premiere and After Effects.</a><br>
 </div>
 <h3>🎯 Languages & Skills</h3> 
 <!--Programming Languages-->
