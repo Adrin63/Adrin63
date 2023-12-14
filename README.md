@@ -4,7 +4,7 @@
     <a href="https://github.com/Adrin63">
       <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a>
-    <a href="https://www.linkein.com/in/adrianrl/">
+    <a href="https://www.linkedin.com/in/adrianrl/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <!--a href="https://www.youtube.com/@adrin63_/videos">
@@ -18,12 +18,11 @@
 <div>
   <img src='https://github.com/Adrin63/Adrin63/blob/main/Myself.gif' height="300" align="right"/>
   <h3>📬 Who I am?</h3>
-<a>-🌱 I'm a fullstack developer who edits on his free time</a><br>
-<a>-🌼 Always in constant personal growth, I keep re-building myself everyday, looking for be the best version of me ✌🏻</a><br>
-<a>-📹 As an editor, I work with Photoshop, Premiere and After Effects.</a><br>
-<a>-📹 As an editor, I work with Photoshop, Premiere and After Effects.</a><br>
-<a>-📹 As an editor, I work with Photoshop, Premiere and After Effects.</a><br>
-<a>-📹 As an editor, I work with Photoshop, Premiere and After Effects.</a><br> 
+<a>-🍉 I'm a fullstack developer, on my free times I edit videos</a><br>
+<a>-🍀 My goal as programmer is to find a place where I can grow, prove my skills and give free space to the creativity</a><br>
+<a>-🌱 Working on be the best version of myself everyday, I try to improve daily on my tech skills</a><br>
+<a>-👾 I'm a fullstack geek, my favourite games are Hollow Knight 🐛, Outer Wilds 🌌 and Zelda Breath of The Wild 🍃 </a><br>
+<a>-🎬 As an editor, I'm used to work with Photoshop, Premiere and After Effects</a><br> 
 </div>
 <h3>🎯 Languages & Skills</h3> 
 <!--Programming Languages-->
