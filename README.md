@@ -75,7 +75,7 @@
 <div align="center">
   <br>
   <br>
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrin63&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrin63&layout=compact&theme=dark&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br>
   <br>
     <a href="https://www.linkedin.com/in/adrianrl/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
