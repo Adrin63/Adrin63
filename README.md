@@ -21,7 +21,9 @@
 <a>-🌱 I'm a fullstack developer who edits on his free time</a><br>
 <a>-🌼 Always in constant personal growth, I keep re-building myself everyday, looking for be the best version of me ✌🏻</a><br>
 <a>-📹 As an editor, I work with Photoshop, Premiere and After Effects.</a><br>
-<br><br><br><br><br>
+<a>-📹 As an editor, I work with Photoshop, Premiere and After Effects.</a><br>
+<a>-📹 As an editor, I work with Photoshop, Premiere and After Effects.</a><br>
+<a>-📹 As an editor, I work with Photoshop, Premiere and After Effects.</a><br> 
 </div>
 <h3>🎯 Languages & Skills</h3> 
 <!--Programming Languages-->
