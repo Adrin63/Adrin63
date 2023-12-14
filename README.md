@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/sql-%23b8b8b8?style=for-the-badge&logoColor=white">
     <br>
     <br>
+    <img src='https://github.com/Adrin63/Adrin63/blob/main/flip.png' height="300" align="right"/>
     - Secondary Languages 🥈:
     <br>
     <br>
@@ -45,7 +46,6 @@
     <img src="https://img.shields.io/badge/javascript-%23faea0a?style=for-the-badge&logo=javascript&logoColor=black">
     <br>
     <br>
-    <img src='https://github.com/Adrin63/Adrin63/blob/main/flip.png' height="300" align="right"/>
     - Python Tools 🧰:
     <br>
     <br>
