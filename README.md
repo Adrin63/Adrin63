@@ -22,7 +22,7 @@
 <a>-🍀 My goal as programmer is to find a place where I can grow, prove my skills and give free space to the creativity.</a><br>
 <a>-🎬 As an editor, I'm used to working with Photoshop, Premiere and After Effects.</a><br> 
 <a>-🌱 Working on being the best version of myself everyday, improving my tech skills.</a><br>
-<a>-👾 I'm a fullstack geek, my favourite games are Hollow Knight 🐛, Outer Wilds 🌌 and Zelda Breath of The Wild 🍃 </a><br>
+<a>-👾 I'm a fullstack geek, my favourite games are Hollow Knight 🐛, Outer Wilds ⭐ and Zelda Breath of The Wild 🍃 </a><br>
 
 </div>
 <h3>🎯 Languages & Skills</h3> 
