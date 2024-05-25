@@ -1,4 +1,4 @@
-<img src='https://github.com/Adrin63/Adrin63/blob/main/Github Banner.png' height="400"/>
+<img src='https://github.com/Adrin63/Adrin63/blob/main/GithubBanner.png'/>
 
 ## Who am I? ☕
 
