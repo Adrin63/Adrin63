@@ -6,7 +6,7 @@
 
 - 🌀 As a programmer, I'm used to work on web developing: Angular, React and Astro.
 
-- 📚 Despite this, I also worked and enjoyed other faces of programming, like C++, C# and Python, between others.
+- 📚 Despite this, I also worked and enjoyed other faces of programming, like C++, C# and Python, among others.
 
 - 🎯 Now, I'm looking forward on keep learning Angular and keep making personal projects.
 
