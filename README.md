@@ -2,9 +2,7 @@
 
 ## Who am I? ☕
 
-- 🌻 Mainly, I'm just me.
-
-- 🌀 As a programmer, I'm used to work on web developing: Angular, React and Astro.
+- 🌀 Lately, I had been working in the Frontend area using Angular, React and Astro.
 
 - 📚 Despite this, I also worked and enjoyed other faces of programming, like C++, C# and Python, among others.
 
